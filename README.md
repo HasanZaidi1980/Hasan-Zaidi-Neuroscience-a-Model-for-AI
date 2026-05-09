@@ -1,4 +1,4 @@
-# Hasan-Zaidi-Neuroscience-a-Model-for-AI
+# Hasan-Zaidi-Neuroscience-as-a-Model-for-AI
 
 # Neuroscience as a Model for AI — Course Portfolio
 **Student:** Hasan Zaidi  
