@@ -6,7 +6,7 @@
 **Instructor:** Prof. McManus  
 
 ## Introduction
-I am a student in the AI & Robotics program at Houston City College. In this course, we explored the intersection of computational neuroscience and machine learning. My interest lies in bridging the gap between the dense, energy-heavy computation of modern AI and the elegant, sparse efficiency of the human brain. Throughout this course, I have explored how biological principles like predictive coding, reference frames, and synaptic plasticity can be leveraged to build more adaptable and efficient intelligent systems.
+I am a student in the AI & Robotics program at Houston City College. In this course, we explored the intersection of computational neuroscience and machine learning. I learned how to bridge the gap between the energy-heavy computation of modern AI and the elegant, sparse efficiency of the human brain. Throughout this course, I have explored how biological principles like predictive coding, reference frames, and synaptic plasticity can be leveraged to build more adaptable and efficient intelligent systems.
 
 ## Completed Work
 
